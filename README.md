@@ -4,15 +4,16 @@ A toy usage of the new [wodpy pacakge](https://github.com/BillMills/wodpy) for r
 
 #### Does it install?
 
- 1. Install `wodpy`: `sudo pip install wodpy`
- 2. Run this demo: `python demo.py`
- 3. Did it print 61.93?
+ 1. Clone this repo: `git clone https://github.com/BillMills/woddemo.git; cd woddemo`
+ 2. Install `wodpy`: `sudo pip install wodpy`
+ 3. Run this demo: `python demo.py`
+ 4. Did it print 61.93?
   - Yes: Great! Installation has worked. Open an issue, tell me your operating system version and python version, and that things seem ok.
   - No: Something has gone wrong with installation. Please open an issue, cut and paste in any error messages you got, and tell me your operating system version and python version. Thanks!
 
 #### Do the tests pass for you?
  
- 1. Clone the development repo for wodpy: `git clone https://github.com/BillMills/wodpy.git`
+ 1. Clone the development repo for wodpy: `git clone https://github.com/BillMills/wodpy.git; cd wodpy`
  2. Run the tests: `nosetests`
  3. Do they all pass?
   - Yes: Awesome!
