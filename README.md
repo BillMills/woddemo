@@ -1,6 +1,6 @@
 ## wodpy demo
 
-A toy usage of the new `wodpy` pacakge. A bunch of ways you can help out:
+A toy usage of the new [wodpy pacakge](https://github.com/BillMills/wodpy) for reading World Ocean Dataset data. A bunch of ways you can help out:
 
 #### Does it install?
 
