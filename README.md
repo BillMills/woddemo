@@ -21,4 +21,4 @@ A toy usage of the new [wodpy pacakge](https://github.com/BillMills/wodpy) for r
 
 #### For the ocean science inclined:
 
- We will be using this pacakge to unpack data for IQuOD's [AutoQC](https://github.com/IQuOD/AutoQC) project, but I'd like feedback on how things go using `wodpy` in other projects. Are all the necessary features there? Any bugs? Is usage convenient and easy to learn? Let me know in an issue here or in the [wodpy repo](https://github.com/BillMills/wodpy).
+ We will be using this pacakge to unpack data for IQuOD's [AutoQC](https://github.com/IQuOD/AutoQC) project, but I'd like feedback on how things go using `wodpy` in other projects. Are all the necessary features there? Any bugs? Is usage convenient and easy to learn? Let me know in an issue here or in the [wodpy repo](https://github.com/IQuOD/wodpy).
