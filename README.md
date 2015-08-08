@@ -13,7 +13,7 @@ A toy usage of the new [wodpy pacakge](https://github.com/BillMills/wodpy) for r
 
 #### Do the tests pass for you?
  
- 1. Clone the development repo for wodpy: `git clone https://github.com/BillMills/wodpy.git; cd wodpy`
+ 1. Clone the development repo for wodpy: `git clone https://github.com/IQuOD/wodpy.git; cd wodpy`
  2. Run the tests: `nosetests`
  3. Do they all pass?
   - Yes: Awesome!
